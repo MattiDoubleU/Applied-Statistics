@@ -6,7 +6,7 @@ This repository includes the following:
 - problems.ipynb
 The primary Jupyter Notebook for the module. It is developed progressively in line with the syllabus and serves as the basis for the module assessment. The final version will be published no later than December 21st.
 
-R- oughwork/
+- Roughwork/
 A folder for drafts, exploratory work, and informal notes created throughout the module.
 
 - README.md
