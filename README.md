@@ -1,4 +1,4 @@
-# Applied_Statistics
+# Applied-Statistics
 Repository for the Applied Statistics module.
 
 This repository includes the following:
