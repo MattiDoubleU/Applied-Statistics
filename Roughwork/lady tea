@@ -1,0 +1,25 @@
+import numpy as np
+from math import comb
+
+# Parameters
+n_total = 12
+n_milk = 4
+n_trials = 1_000_000  # 1 million simulations
+
+# True labels: 8 tea-first (T) and 4 milk-first (M)
+true_labels = np.array([0]*8 + [1]*4)  # 0 = tea-first, 1 = milk-first
+
+count_correct = 0
+
+for _ in range(n_trials):
+    # Random guess: participant chooses 4 as milk-first
+    guess = np.array([0]*(n_total - n_milk) + [1]*n_milk)
+    np.random.shuffle(guess)
+    
+    if np.all(guess == true_labels):
+        count_correct += 1
+
+prob_estimate = count_correct / n_trials
+
+print(f"Estimated probability: {prob_estimate:.6f}")
+print(f"Analytical probability: {1/comb(n_total, n_milk):.6f}")
