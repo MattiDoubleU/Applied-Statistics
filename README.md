@@ -10,10 +10,7 @@ This repository contains the Jupyter Notebook (problems.ipynb) for the module as
 The assessment requires the application of simulation techniques and statistical tests to solve four distinct problems. Please refer to the requirements.txt file to ensure your environment is set up correctly before running the notebook.
 
 
-This repository includes the following:
-
-- problems.ipynb:
-The primary Jupyter Notebook for the module. It is developed 
+## Repository Structure
 
 - problems.ipynb: The primary document where all problem solutions, simulations, code, visualizations, and required explanations/interpretations are developed progressively in line with the syllabus and serves as the basis for the module assessment. The final version will be published no later than December 21st.
 
@@ -21,19 +18,7 @@ The primary Jupyter Notebook for the module. It is developed
 
 - requirements.txt: Lists all necessary Python packages and versions to ensure the reproducibility of the code.
 
-README.md: Assessment Problems
-
-This repository contains the Jupyter Notebook (problems.ipynb) for the module assessment, which focuses on applying foundational statistical concepts using Python and NumPy.
-
-The assessment requires the application of simulation techniques and statistical tests to solve four distinct problems. Please refer to the requirements.txt file to ensure your environment is set up correctly before running the notebook.
-
-## Module Structure
-
-    problems.ipynb: The primary document where all problem solutions, simulations, code, visualizations, and required explanations/interpretations are developed.
-
-    Roughwork/: A folder intended for drafts, exploratory work, and informal notes generated during the development process.
-
-    requirements.txt: Lists all necessary Python packages and versions to ensure the reproducibility of the code.
+- README.md
 
 ## Assessment Problems 
 The official assessment can be found [here](https://github.com/ianmcloughlin/applied-statistics/tree/main/assessment)
