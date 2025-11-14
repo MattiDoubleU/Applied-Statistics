@@ -1,3 +1,6 @@
+<img src="https://studenthub.atu.ie/assets/ATU_Logo.fa93bf0a.svg" alt="ATU Logo" width="300" height="100">
+
+
 # Applied-Statistics
 Repository for the Applied Statistics module.
 
