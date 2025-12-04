@@ -35,6 +35,8 @@ This problem requires a simulation-based approach to hypothesis testing.
 
     Analysis: Compare this probability to the original 8-cup experiment's probability. Discuss the implications of this new probability on setting the p-value threshold.
 
+Add references xxxxxx
+
 ### Problem 2: Normal Distribution and Standard Deviation
 
 This problem explores the concept of bias in standard deviation estimation (Bessel's Correction).
@@ -47,6 +49,8 @@ This problem explores the concept of bias in standard deviation estimation (Bess
 
     Analysis: Describe the visual differences. Explain how the differences are expected to change if the sample size (n) were increased (i.e., how the bias changes).
 
+Add references xxxxxx
+
 ### Problem 3: t-Tests and Type II Error
 
 This problem involves simulating the power of the t-test and measuring the Type II error rate.
@@ -58,6 +62,8 @@ This problem involves simulating the power of the t-test and measuring the Type 
     Visualization: Plot the recorded proportion (β) against the mean difference (d).
 
     Analysis: Explain how the Type II error rate changes as the difference in means increases.
+
+Add references xxxxxx
 
 ### Problem 4: ANOVA vs. Multiple t-Tests
 
@@ -72,4 +78,6 @@ This problem contrasts two methods for comparing multiple group means.
         Perform three independent two-sample t-tests (1 vs 2, 1 vs 3, 2 vs 3).
 
     Analysis: Compare the conclusions reached by the ANOVA and the multiple t-tests. Write a short note explaining why ANOVA is the preferred method over running several independent t-tests in this scenario (addressing the family-wise error rate).
+
+Add references xxxxxx
 
