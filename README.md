@@ -22,27 +22,27 @@ The assessment requires the application of simulation techniques and statistical
 
 ## Tools & Libraries
 
-Mathematical functions from the standard library: [math](https://docs.python.org/3/library/math.html)
+- Mathematical functions from the standard library: [math](https://docs.python.org/3/library/math.html)
 
-Permutations and combinations: [itertools](https://docs.python.org/3/library/itertools.html)
+- Permutations and combinations: [itertools](https://docs.python.org/3/library/itertools.html)
 
-Random selections: [random](https://docs.python.org/3/library/random.html)
+- Random selections: [random](https://docs.python.org/3/library/random.html)
 
-Statistical functions: [stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
+- Statistical functions: [stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
 
-For numerical arrays: [Numpy](https://numpy.org/). The fundamental package for scientific computing with Python.
+- For numerical arrays: [Numpy](https://numpy.org/). The fundamental package for scientific computing with Python.
 
-For plotting: [Metplotlib](https://matplotlib.org/stable/) is a comprehensive library for creating static, animated, and interactive visualizations.
+- For plotting: [Metplotlib](https://matplotlib.org/stable/) is a comprehensive library for creating static, animated, and interactive visualizations.
 
 
 ## Assessment Problems 
-The official assessment can be found [here](https://github.com/ianmcloughlin/applied-statistics/tree/main/assessment)
+The official assessment can be found [here](https://github.com/ianmcloughlin/applied-statistics/tree/main/assessment).
 
 The notebook addresses the following four problems. All code, visualizations, reported results, and interpretations must be included within the problems.ipynb file.
 
 ## References & Referencing style
 
-Code-specific references are included inside the respective code blocks. All other references (such as those for concepts or background information) are listed under each problem in this notebook. The referencing style chosen for this project is MLA: Author(s). "Title of Web Page." Website Title, Publisher (if different from website title), Date of Publication, URL. 
+Code-specific references are included inside the respective code blocks. All other references (such as those for concepts or background information) are listed under each problem in this notebook. The referencing style chosen for this project is MLA: *Author(s). "Title of Web Page." Website Title, Publisher (if different from website title), Date of Publication, URL.* 
 
 ### Problem 1: Extending the Lady Tasting Tea
 
@@ -98,10 +98,9 @@ This problem contrasts two methods for comparing multiple group means.
 
     Analysis: Compare the conclusions reached by the ANOVA and the multiple t-tests. Write a short note explaining why ANOVA is the preferred method over running several independent t-tests in this scenario (addressing the family-wise error rate).
 
-
-
-Author(s). "Title of Web Page." Website Title, Publisher (if different from website title), Date of Publication, URL. 
-
-References:
-Benjamini, Yoav, and Yosef Hochberg. "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing." Journal of the Royal Statistical Society: Series B (Methodological), vol. 57, no. 1, 1995, pp. 289-300. https://www.math.tau.ac.il/~ybenja/MyPapers/benjamini_hochberg1995.pdf
+**References:**
+Benjamini, Yoav, and Yosef Hochberg. "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing." Journal of the Royal Statistical Society: Series B (Methodological), vol. 57, no. 1, 1995, pp. 289-300, https://www.math.tau.ac.il/~ybenja/MyPapers/benjamini_hochberg1995.pdf. \
+Frost, Jim. "Family-Wise Error Rate." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/glossary/family-wise-error-rate/. \
+Frost, Jim. "What is the Bonferroni Correction and How to Use It." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/hypothesis-testing/bonferroni-correction/. \
+Frost, Jim. "Using Post Hoc Tests with ANOVA." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/anova/post-hoc-tests-anova/.
 
