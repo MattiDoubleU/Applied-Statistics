@@ -4,7 +4,6 @@
 # Applied-Statistics
 Repository for the Applied Statistics module.
 
-
 This repository contains the Jupyter Notebook (problems.ipynb) for the module assessment, which focuses on applying foundational statistical concepts using Python and NumPy.
 
 The assessment requires the application of simulation techniques and statistical tests to solve four distinct problems. Please refer to the requirements.txt file to ensure your environment is set up correctly before running the notebook.
@@ -40,6 +39,10 @@ For plotting: [Metplotlib](https://matplotlib.org/stable/) is a comprehensive li
 The official assessment can be found [here](https://github.com/ianmcloughlin/applied-statistics/tree/main/assessment)
 
 The notebook addresses the following four problems. All code, visualizations, reported results, and interpretations must be included within the problems.ipynb file.
+
+## References & Referencing style
+
+Code-specific references are included inside the respective code blocks. All other references (such as those for concepts or background information) are listed under each problem in this notebook. The referencing style chosen for this project is MLA: Author(s). "Title of Web Page." Website Title, Publisher (if different from website title), Date of Publication, URL. 
 
 ### Problem 1: Extending the Lady Tasting Tea
 
@@ -95,5 +98,10 @@ This problem contrasts two methods for comparing multiple group means.
 
     Analysis: Compare the conclusions reached by the ANOVA and the multiple t-tests. Write a short note explaining why ANOVA is the preferred method over running several independent t-tests in this scenario (addressing the family-wise error rate).
 
-Add references xxxxxx
+
+
+Author(s). "Title of Web Page." Website Title, Publisher (if different from website title), Date of Publication, URL. 
+
+References:
+Benjamini, Yoav, and Yosef Hochberg. "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing." Journal of the Royal Statistical Society: Series B (Methodological), vol. 57, no. 1, 1995, pp. 289-300. https://www.math.tau.ac.il/~ybenja/MyPapers/benjamini_hochberg1995.pdf
 
