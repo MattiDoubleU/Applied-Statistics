@@ -20,6 +20,22 @@ The assessment requires the application of simulation techniques and statistical
 
 - README.md
 
+
+## Tools & Libraries
+
+Mathematical functions from the standard library: [math](https://docs.python.org/3/library/math.html)
+
+Permutations and combinations: [itertools](https://docs.python.org/3/library/itertools.html)
+
+Random selections: [random](https://docs.python.org/3/library/random.html)
+
+Statistical functions: [stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
+
+For numerical arrays: [Numpy](https://numpy.org/). The fundamental package for scientific computing with Python.
+
+For plotting: [Metplotlib](https://matplotlib.org/stable/) is a comprehensive library for creating static, animated, and interactive visualizations.
+
+
 ## Assessment Problems 
 The official assessment can be found [here](https://github.com/ianmcloughlin/applied-statistics/tree/main/assessment)
 
