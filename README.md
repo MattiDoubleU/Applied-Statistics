@@ -98,9 +98,10 @@ This problem contrasts two methods for comparing multiple group means.
 
     Analysis: Compare the conclusions reached by the ANOVA and the multiple t-tests. Write a short note explaining why ANOVA is the preferred method over running several independent t-tests in this scenario (addressing the family-wise error rate).
 
-**References:**
+**References:** \
 Benjamini, Yoav, and Yosef Hochberg. "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing." Journal of the Royal Statistical Society: Series B (Methodological), vol. 57, no. 1, 1995, pp. 289-300, https://www.math.tau.ac.il/~ybenja/MyPapers/benjamini_hochberg1995.pdf. \
 Frost, Jim. "Family-Wise Error Rate." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/glossary/family-wise-error-rate/. \
 Frost, Jim. "What is the Bonferroni Correction and How to Use It." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/hypothesis-testing/bonferroni-correction/. \
-Frost, Jim. "Using Post Hoc Tests with ANOVA." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/anova/post-hoc-tests-anova/.
+Frost, Jim. "Using Post Hoc Tests with ANOVA." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/anova/post-hoc-tests-anova/. \
+Frost, Jim. "Tukey-Kramer Test." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/glossary/tukey-kramer-test/.
 
