@@ -34,15 +34,16 @@ The assessment requires the application of simulation techniques and statistical
 
 - For plotting: [Metplotlib](https://matplotlib.org/stable/) is a comprehensive library for creating static, animated, and interactive visualizations.
 
+## References & Referencing Style
+
+Code-specific references are included inside the respective code blocks. All other references (such as those for concepts or background information) are listed under each problem in this notebook. The referencing style chosen for this project is MLA: *Author(s). "Title of Web Page." Website Title, Publisher (if different from website title), Date of Publication, URL.* 
+
 
 ## Assessment Problems 
 The official assessment can be found [here](https://github.com/ianmcloughlin/applied-statistics/tree/main/assessment).
 
-The notebook addresses the following four problems. All code, visualizations, reported results, and interpretations must be included within the problems.ipynb file.
+The notebook addresses the following four problems. All code, visualizations, reported results, and interpretations are included within the problems.ipynb file.
 
-## References & Referencing style
-
-Code-specific references are included inside the respective code blocks. All other references (such as those for concepts or background information) are listed under each problem in this notebook. The referencing style chosen for this project is MLA: *Author(s). "Title of Web Page." Website Title, Publisher (if different from website title), Date of Publication, URL.* 
 
 ### Problem 1: Extending the Lady Tasting Tea
 
