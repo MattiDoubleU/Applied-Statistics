@@ -90,8 +90,8 @@ This problem involves simulating the power of the t-test and measuring the Type 
 
 **References:** 
 - Berberyan, Toros, et al. "9.2: t-Test for the Difference Between Two Means." Statistics C1000: Introduction to Statistics, LibreTexts, 21 Aug. 2025, stats.libretexts.org/Courses/Citrus_College/Statistics_C1000%3A_Introduction_to_Statistics/09%3A_Hypothesis_Testing_for_Two_Samples/9.02%3A__t-Test_for_the_Difference_Between_Two_Means. 
-- Bhandari, Pritha. "Type I and Type II Errors | Differences, Examples, Visualizations." Scribbr, 22 June 2023, www.scribbr.com/statistics/type-i-and-type-ii-errors/. \
-- Grimm, Taylor. "Hypothesis Testing: Error Types and Power." 16 July 2024, trgrimm.github.io/posts/2024/07/error-types/. \
+- Bhandari, Pritha. "Type I and Type II Errors | Differences, Examples, Visualizations." Scribbr, 22 June 2023, www.scribbr.com/statistics/type-i-and-type-ii-errors/. 
+- Grimm, Taylor. "Hypothesis Testing: Error Types and Power." 16 July 2024, trgrimm.github.io/posts/2024/07/error-types/. 
 - Chugani, Vinod. "Understanding Type I and Type II Errors in Statistics." Statology, 9 Jan. 2025, www.statology.org/understanding-type-errors/.
 
 ### Problem 4: ANOVA vs. Multiple t-Tests
@@ -108,7 +108,7 @@ This problem contrasts two methods for comparing multiple group means.
 
     Analysis: Compare the conclusions reached by the ANOVA and the multiple t-tests. Write a short note explaining why ANOVA is the preferred method over running several independent t-tests in this scenario (addressing the family-wise error rate).
 
-**References:** \
+**References:** 
 - Benjamini, Yoav, and Yosef Hochberg. "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing." Journal of the Royal Statistical Society: Series B (Methodological), vol. 57, no. 1, 1995, pp. 289-300, https://www.math.tau.ac.il/~ybenja/MyPapers/benjamini_hochberg1995.pdf. 
 - Frost, Jim. "Family-Wise Error Rate." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/glossary/family-wise-error-rate/. 
 - Frost, Jim. "What is the Bonferroni Correction and How to Use It." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/hypothesis-testing/bonferroni-correction/. 
