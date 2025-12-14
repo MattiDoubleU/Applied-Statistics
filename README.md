@@ -55,10 +55,10 @@ This problem requires a simulation-based approach to hypothesis testing.
 
     Analysis: Compare this probability to the original 8-cup experiment's probability. Discuss the implications of this new probability on setting the p-value threshold.
 
-**References:** \
-"The Lady Tasting Tea Experiment – A Classic of Modern Statistics." Statistics Easily, Accessed 14 Dec. 2025, statisticseasily.com/lady-tasting-tea/. \
-lryan30. "problems.ipynb." applied_statistics, GitHub, Accessed 14 Dec. 2025, https://github.com/lryan30/applied_statistics/blob/main/problems.ipynb. \
-Salsburg, David. "The Lady Tasting Tea." [The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century], dlsun.github.io/ds-seminar/readings/LadyTastingTea-HypothesisTesting.pdf. Accessed 14 Dec. 2025.
+**References:** 
+- "The Lady Tasting Tea Experiment – A Classic of Modern Statistics." Statistics Easily, Accessed 14 Dec. 2025, statisticseasily.com/lady-tasting-tea/. 
+- lryan30. "problems.ipynb." applied_statistics, GitHub, Accessed 14 Dec. 2025, https://github.com/lryan30/applied_statistics/blob/main/problems.ipynb. 
+- Salsburg, David. "The Lady Tasting Tea." [The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century], dlsun.github.io/ds-seminar/readings/LadyTastingTea-HypothesisTesting.pdf. Accessed 14 Dec. 2025.
 
 ### Problem 2: Normal Distribution and Standard Deviation
 
@@ -72,8 +72,8 @@ This problem explores the concept of bias in standard deviation estimation (Bess
 
     Analysis: Describe the visual differences. Explain how the differences are expected to change if the sample size (n) were increased (i.e., how the bias changes).
 
-**References:** \
-lryan30. "problems.ipynb." applied_statistics, GitHub, Accessed 14 Dec. 2025, https://github.com/lryan30/applied_statistics/blob/main/problems.ipynb.
+**References:** 
+- lryan30. "problems.ipynb." applied_statistics, GitHub, Accessed 14 Dec. 2025, https://github.com/lryan30/applied_statistics/blob/main/problems.ipynb.
 
 
 ### Problem 3: t-Tests and Type II Error
@@ -88,11 +88,11 @@ This problem involves simulating the power of the t-test and measuring the Type 
 
     Analysis: Explain how the Type II error rate changes as the difference in means increases.
 
-**References:** \
-Berberyan, Toros, et al. "9.2: t-Test for the Difference Between Two Means." Statistics C1000: Introduction to Statistics, LibreTexts, 21 Aug. 2025, stats.libretexts.org/Courses/Citrus_College/Statistics_C1000%3A_Introduction_to_Statistics/09%3A_Hypothesis_Testing_for_Two_Samples/9.02%3A__t-Test_for_the_Difference_Between_Two_Means. \
-Bhandari, Pritha. "Type I and Type II Errors | Differences, Examples, Visualizations." Scribbr, 22 June 2023, www.scribbr.com/statistics/type-i-and-type-ii-errors/. \
-Grimm, Taylor. "Hypothesis Testing: Error Types and Power." 16 July 2024, trgrimm.github.io/posts/2024/07/error-types/. \
-Chugani, Vinod. "Understanding Type I and Type II Errors in Statistics." Statology, 9 Jan. 2025, www.statology.org/understanding-type-errors/.
+**References:** 
+- Berberyan, Toros, et al. "9.2: t-Test for the Difference Between Two Means." Statistics C1000: Introduction to Statistics, LibreTexts, 21 Aug. 2025, stats.libretexts.org/Courses/Citrus_College/Statistics_C1000%3A_Introduction_to_Statistics/09%3A_Hypothesis_Testing_for_Two_Samples/9.02%3A__t-Test_for_the_Difference_Between_Two_Means. 
+- Bhandari, Pritha. "Type I and Type II Errors | Differences, Examples, Visualizations." Scribbr, 22 June 2023, www.scribbr.com/statistics/type-i-and-type-ii-errors/. \
+- Grimm, Taylor. "Hypothesis Testing: Error Types and Power." 16 July 2024, trgrimm.github.io/posts/2024/07/error-types/. \
+- Chugani, Vinod. "Understanding Type I and Type II Errors in Statistics." Statology, 9 Jan. 2025, www.statology.org/understanding-type-errors/.
 
 ### Problem 4: ANOVA vs. Multiple t-Tests
 
@@ -109,9 +109,9 @@ This problem contrasts two methods for comparing multiple group means.
     Analysis: Compare the conclusions reached by the ANOVA and the multiple t-tests. Write a short note explaining why ANOVA is the preferred method over running several independent t-tests in this scenario (addressing the family-wise error rate).
 
 **References:** \
-Benjamini, Yoav, and Yosef Hochberg. "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing." Journal of the Royal Statistical Society: Series B (Methodological), vol. 57, no. 1, 1995, pp. 289-300, https://www.math.tau.ac.il/~ybenja/MyPapers/benjamini_hochberg1995.pdf. \
-Frost, Jim. "Family-Wise Error Rate." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/glossary/family-wise-error-rate/. \
-Frost, Jim. "What is the Bonferroni Correction and How to Use It." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/hypothesis-testing/bonferroni-correction/. \
-Frost, Jim. "Using Post Hoc Tests with ANOVA." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/anova/post-hoc-tests-anova/. \
-Frost, Jim. "Tukey-Kramer Test." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/glossary/tukey-kramer-test/.
+- Benjamini, Yoav, and Yosef Hochberg. "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing." Journal of the Royal Statistical Society: Series B (Methodological), vol. 57, no. 1, 1995, pp. 289-300, https://www.math.tau.ac.il/~ybenja/MyPapers/benjamini_hochberg1995.pdf. 
+- Frost, Jim. "Family-Wise Error Rate." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/glossary/family-wise-error-rate/. 
+- Frost, Jim. "What is the Bonferroni Correction and How to Use It." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/hypothesis-testing/bonferroni-correction/. 
+- Frost, Jim. "Using Post Hoc Tests with ANOVA." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/anova/post-hoc-tests-anova/. 
+- Frost, Jim. "Tukey-Kramer Test." Statistics By Jim, statisticsbyjim.com, Accessed 13 Dec. 2025, https://statisticsbyjim.com/glossary/tukey-kramer-test/.
 
