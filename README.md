@@ -93,6 +93,8 @@ This problem involves simulating the power of the t-test and measuring the Type 
 - Bhandari, Pritha. "Type I and Type II Errors | Differences, Examples, Visualizations." Scribbr, 22 June 2023, www.scribbr.com/statistics/type-i-and-type-ii-errors/. 
 - Grimm, Taylor. "Hypothesis Testing: Error Types and Power." 16 July 2024, trgrimm.github.io/posts/2024/07/error-types/. 
 - Chugani, Vinod. "Understanding Type I and Type II Errors in Statistics." Statology, 9 Jan. 2025, www.statology.org/understanding-type-errors/.
+- Frost, Jim. “Negative Correlation: Examples & Insights.” Statistics By Jim, StatisticsByJim.com, Accessed 17 Dec. 2025, https://statisticsbyjim.com/basics/negative-correlation/
+  
 
 ### Problem 4: ANOVA vs. Multiple t-Tests
 
